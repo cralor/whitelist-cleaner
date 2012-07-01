@@ -1,14 +1,11 @@
 whitelist-cleaner
 =================
+Removes inactive Minecraft players from the whitelist.
 
 Author
 ------
 All credit goes to [TheBeast808](http://forums.bukkit.org/threads/tool-admin-whitelist-cleaner-remove-inactive-players.66494/) on the Bukkit forums.
 I wanted to keep this code for the future, so I created this public repo.
-
-Description
------------
-Removes inactive Minecraft players from the whitelist.
 
 Requirements
 ------------
