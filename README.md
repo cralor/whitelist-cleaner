@@ -12,7 +12,8 @@ Removes inactive Minecraft players from the whitelist.
 
 Requirements
 ------------
-Python 2.7+, your Minecraft log files
+- Python 2.7+
+- Your Minecraft log files
 
 Instructions
 ------------
